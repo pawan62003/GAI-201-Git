@@ -25,13 +25,11 @@ def determine_winner(user_choice, computer_choice):
         return "computer"
     
 
-# ... (previous code)
 
 user_wins = 0
 computer_wins = 0
 draws = 0
 
-# ... (previous code)
 
 while True:
     print_option()
