@@ -35,3 +35,4 @@ WHERE cuisine_type IS NULL OR cuisine_type = '';
 SELECT COUNT(*) AS delivery_restaurant_count
 FROM Restaurants
 WHERE delivery_available = TRUE;
+ 
